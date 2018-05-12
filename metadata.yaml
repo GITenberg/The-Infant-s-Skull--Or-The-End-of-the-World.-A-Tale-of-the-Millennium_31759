@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1186
     wikipedia: http://en.wikipedia.org/wiki/Eugène_Sue
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31759#The-Infant-s-Skull--Or-The-End-of-the-World.-A-Tale-of-the-Millennium
 gutenberg_issued: '2010-03-24'
 gutenberg_type: Text
 identifiers:
